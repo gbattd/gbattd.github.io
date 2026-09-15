@@ -1,11 +1,11 @@
 
-# José Gabriel Botelho
+# José Gabriel Botelho 
 
 ### Estudante de Desenvolvimento Web | Tecnologia e Programação
 
 ## Sobre Mim
 
-Sou estudante de desenvolvimento de sistemas e estou aprendendo programação e desenvolvimento web. Tenho interesse em HTML, CSS, JavaScript e Python, buscando desenvolver minhas habilidades por meio de projetos práticos. Meu objetivo é crescer profissionalmente na área de tecnologia e conquistar minha primeira oportunidade no mercado.
+Sou estudante de desenvolvimento de sistemas e estou aprendendo programação e desenvolvimento web. Tenho interesse em HTML, CSS e Python, buscando desenvolver minhas habilidades por meio de projetos práticos. Meu objetivo é crescer profissionalmente na área de tecnologia e conquistar minha primeira oportunidade no mercado.
 
 ## Habilidades Técnicas
 
