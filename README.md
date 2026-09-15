@@ -29,5 +29,5 @@ Desenvolvi um projeto de sistema para aluguel de barcos, aplicando conceitos de 
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/gbattd/)
-- E-mail: gabriel.caragua2010@email.com
+- E-mail: gabriel.caragua2010@gmail.com
 - [GitHub](https://github.com/gbattd)
